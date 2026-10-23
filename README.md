@@ -1,17 +1,53 @@
 # Damire Zalyatov
 
+<img src="assets/header.png" width="100%" alt="Portfolio: Damire Zalyatov, software engineer. Eight project cards: PrivaCred, Agent Injection Lab, Taiga, RPS Hand, Solutions101, Mostik, 3DAR studio site, ligarent.com.">
+
 Software engineer, MSc Advanced Computer Science (Distinction), Queen Mary University of London. London, UK.
 
 ## Featured
 
-| Project | What it is | Links |
-|---|---|---|
-| **PrivaCred** | MSc dissertation. A holder proves a predicate about a credential without revealing any attribute: BBS+ selective disclosure and Groth16 / PLONK zk-SNARKs bound through Poseidon commitments. TypeScript, Circom, 189 passing tests. | [Live demo](https://dominicdamire.github.io/privacred/) · [repo](https://github.com/DominicDamire/privacred) |
-| **Agent Injection Lab** | Reproducible prompt-injection benchmark for document-reading LLM agents, with enforced tool permissions and replay-audited traces; pilot on Qwen2.5 7B and 14B. Python. | [repo](https://github.com/DominicDamire/agent-injection-lab) |
-| **Taiga** | Private multi-model AI workspace: streaming chat, model councils, agent teams and a media studio. Next.js front end, Python HTTP/SSE backend. | [taiga-web](https://github.com/DominicDamire/taiga-web) · [taiga-backend](https://github.com/DominicDamire/taiga-backend) |
-| **RPS Hand** | Rock-paper-scissors in the browser with MediaPipe hand tracking and a rigged 3D hand that copies your pose. Extended fork of a team project. | [Live demo](https://dominicdamire.github.io/rps-hand/) · [repo](https://github.com/DominicDamire/rps-hand) |
-| **Solutions101 prototypes** | Four business-automation demos (equipment-rental fleet, warehouse scanner, counterparty settlements, auto-parts store), each a single HTML file with invented data and a Russian interface. | [Live index](https://dominicdamire.github.io/s101-works/) · [repo](https://github.com/DominicDamire/s101-works) |
-| **Mostik router lab** | Degraded-connection controller from a router-VPN product: restart the interface, then promote to the next protocol. POSIX shell, 13 tests. | [repo](https://github.com/DominicDamire/mostik-router-lab) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dominicdamire.github.io/privacred/"><img src="assets/cards/privacred.png" alt="PrivaCred" width="100%"></a><br>
+      Live demo. Prove a predicate about a credential and verify it in the browser (Groth16 and PLONK).
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/DominicDamire/agent-injection-lab"><img src="assets/cards/agent-injection-lab.png" alt="Agent Injection Lab" width="100%"></a><br>
+      Prompt-injection benchmark for document-reading LLM agents, with audited traces. Python.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/DominicDamire/taiga-web"><img src="assets/cards/taiga-web.png" alt="Taiga" width="100%"></a><br>
+      Private multi-model AI workspace; Next.js front end, with a <a href="https://github.com/DominicDamire/taiga-backend">Python backend</a>.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://dominicdamire.github.io/rps-hand/"><img src="assets/cards/rps-hand.png" alt="RPS Hand" width="100%"></a><br>
+      Live demo. Rock-paper-scissors with MediaPipe hand tracking and a rigged 3D hand.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dominicdamire.github.io/s101-works/"><img src="assets/cards/s101-works.png" alt="Solutions101 prototypes" width="100%"></a><br>
+      Live index of four single-file business-automation demos (Russian interface).
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/DominicDamire/mostik-router-lab"><img src="assets/cards/mostik-router-lab.png" alt="Mostik router lab" width="100%"></a><br>
+      Degraded-connection controller from a router-VPN product. POSIX shell, 13 tests.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dominicdamire.github.io/3dar-studio-site/"><img src="assets/cards/3dar-studio-site.png" alt="3DAR studio site" width="100%"></a><br>
+      Live site. Multi-page 3D architecture-visualisation studio site with a scroll-driven video hero.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ligarent.com/"><img src="assets/cards/ligarent-preview.png" alt="ligarent.com" width="100%"></a><br>
+      Live site. Five-language bulldozer-rental website; <a href="https://github.com/DominicDamire/ligarent-preview">source</a>.
+    </td>
+  </tr>
+</table>
 
 ## More
 
