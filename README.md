@@ -31,7 +31,7 @@ MSc Advanced Computer Science (Distinction), Queen Mary University of London. I 
 - [mostik-router-lab](https://github.com/DominicDamire/mostik-router-lab): degraded-connection controller from the Mostik router-VPN product (OpenWrt) that restarts the tunnel interface, then promotes to the next protocol; POSIX shell with 13 tests.
 - [rps-hand](https://github.com/DominicDamire/rps-hand): rock-paper-scissors in the browser with MediaPipe hand tracking and a rigged 3D hand that copies your pose; extended fork of a team project by tagirz500 and ArmanFardin. [Live demo](https://dominicdamire.github.io/rps-hand/)
 - [ligarent-preview](https://github.com/DominicDamire/ligarent-preview): source of the live ligarent.com site, a five-language bulldozer-rental website with a scroll-driven video intro, machine picker and service-area map. [Live site](https://ligarent.com/)
-- [3dar-scroll-demo](https://github.com/DominicDamire/3dar-scroll-demo): scroll-controlled architectural flythrough where scrolling scrubs a 16-second render from a courtyard into an apartment lobby. [Live demo](https://dominicdamire.github.io/3dar-scroll-demo/)
+- [3dar-studio-site](https://github.com/DominicDamire/3dar-studio-site): 3DAR studio site, a multi-page 3D architecture-visualisation studio website with a scroll-driven video hero, a wall of 55 renders, a project library and a scroll-scrubbed flythrough page. [Live site](https://dominicdamire.github.io/3dar-studio-site/)
 
 ## Research
 
