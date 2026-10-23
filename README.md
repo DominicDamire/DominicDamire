@@ -23,7 +23,6 @@ MSc Advanced Computer Science (Distinction), Queen Mary University of London. I 
 - [s101-warehouse-terminal](https://github.com/DominicDamire/s101-warehouse-terminal): handheld warehouse-scanner screen and office view with FEFO picking routes, cell and barcode scanning, receiving, putaway, moves and stock counts. [Live demo](https://dominicdamire.github.io/s101-warehouse-terminal/) (Russian interface)
 - [s101-accounting](https://github.com/DominicDamire/s101-accounting): counterparty settlements, who owes whom for every customer and supplier, with debt ageing, a payment calendar and a printable reconciliation act. [Live demo](https://dominicdamire.github.io/s101-accounting/) (Russian interface)
 - [s101-auto-parts](https://github.com/DominicDamire/s101-auto-parts): demo auto-parts store where you find parts by VIN or by make and model, filter the catalogue and order through a cart. [Live demo](https://dominicdamire.github.io/s101-auto-parts/) (Russian interface)
-- [s101-price-collector](https://github.com/DominicDamire/s101-price-collector): clickable demo of a supplier price-list collector: three sample price lists merge into one table with the lowest price per item. [Live demo](https://dominicdamire.github.io/s101-price-collector/) (Russian interface)
 - [All demos on one page](https://dominicdamire.github.io/s101-works/): index of the prototypes above.
 
 ## Projects
