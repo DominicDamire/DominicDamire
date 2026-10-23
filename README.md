@@ -1,7 +1,5 @@
 # Damire Zalyatov
 
-<img src="assets/header.png" width="100%" alt="Portfolio: Damire Zalyatov, software engineer. Eight project cards: PrivaCred, Agent Injection Lab, Taiga, RPS Hand, Solutions101, Mostik, 3DAR studio site, ligarent.com.">
-
 Software engineer, MSc Advanced Computer Science (Distinction), Queen Mary University of London. London, UK.
 
 ## Featured
