@@ -57,4 +57,4 @@ Python, TypeScript/JavaScript, Java, SQL, Haskell, C · PyTorch, MLX, React/Next
 
 ## Contact
 
-[zalyatovdamiredominic@gmail.com](mailto:zalyatovdamiredominic@gmail.com) · [LinkedIn](https://www.linkedin.com/in/damire-zalyatov-77b4572b2)
+[zalyatovdamiredominic@gmail.com](mailto:zalyatovdamiredominic@gmail.com) · [LinkedIn](https://www.linkedin.com/in/damirezalyatov)
