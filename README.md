@@ -28,7 +28,7 @@ Software engineer, MSc Advanced Computer Science (Distinction), Queen Mary Unive
   <tr>
     <td width="50%" valign="top">
       <a href="https://dominicdamire.github.io/solutions101/"><img src="assets/cards/solutions101.png" alt="Solutions101" width="100%"></a><br>
-      Live demo. Four single-file business-automation prototypes (rental fleet, warehouse terminal, settlements, auto-parts store); Russian interface.
+      Sold to clients (rental fleet, warehouse terminal, settlements). Live demo. Four single-file business-automation prototypes (rental fleet, warehouse terminal, settlements, auto-parts store); Russian interface.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/DominicDamire/mostik-router-lab"><img src="assets/cards/mostik-router-lab.png" alt="Mostik router lab" width="100%"></a><br>
@@ -42,10 +42,12 @@ Software engineer, MSc Advanced Computer Science (Distinction), Queen Mary Unive
     </td>
     <td width="50%" valign="top">
       <a href="https://ligarent.com/"><img src="assets/cards/ligarent-preview.png" alt="LIGARENT" width="100%"></a><br>
-      Live site. Five-language bulldozer-rental website with a scroll-driven video intro; <a href="https://github.com/DominicDamire/ligarent-preview">source</a>.
+      Sold to clients. Live site. Five-language bulldozer-rental website with a scroll-driven video intro; <a href="https://github.com/DominicDamire/ligarent-preview">source</a>.
     </td>
   </tr>
 </table>
+
+Sold to clients: ligarent.com, rental-fleet app, warehouse terminal, settlements app. Demos use invented data.
 
 ## More engineering
 
