@@ -28,7 +28,7 @@ Software engineer, MSc Advanced Computer Science (Distinction), Queen Mary Unive
   <tr>
     <td width="50%" valign="top">
       <a href="https://dominicdamire.github.io/solutions101/"><img src="assets/cards/solutions101.png" alt="Solutions101" width="100%"></a><br>
-      Live demo. Four single-file business-automation prototypes (rental fleet, warehouse terminal, settlements, auto-parts store); Russian interface. The settlements app was sold to a client (code private, demo only here); the rental fleet, warehouse terminal and auto-parts store were built for a local business, unpaid.
+      Live demo. Four single-file business-automation prototypes (rental fleet, warehouse terminal, settlements, auto-parts store); Russian interface. The settlements app was sold to a client (code private, demo only here); the rental fleet, warehouse terminal and auto-parts store were pitched to a local business (not taken up).
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/DominicDamire/mostik-router-lab"><img src="assets/cards/mostik-router-lab.png" alt="Mostik router lab" width="100%"></a><br>
@@ -38,7 +38,7 @@ Software engineer, MSc Advanced Computer Science (Distinction), Queen Mary Unive
   <tr>
     <td width="50%" valign="top">
       <a href="https://dominicdamire.github.io/3dar-studio-site/"><img src="assets/cards/3dar-studio-site.png" alt="3DAR studio site" width="100%"></a><br>
-      Live demo. Site for a 3D architecture-visualisation studio, built for a local business, unpaid.
+      Live demo. Site for a 3D architecture-visualisation studio, pitched to a local business (not taken up).
     </td>
     <td width="50%" valign="top">
       <a href="https://ligarent.com/"><img src="assets/cards/ligarent-preview.png" alt="LIGARENT" width="100%"></a><br>
@@ -47,7 +47,7 @@ Software engineer, MSc Advanced Computer Science (Distinction), Queen Mary Unive
   </tr>
 </table>
 
-Sold to clients (code private, demo only public): ligarent.com and the settlements app. Built for a local business, unpaid: 3DAR studio site, auto-parts store, rental-fleet app, warehouse terminal. Demos use invented data.
+Sold to clients (code private, demo only public): ligarent.com and the settlements app. Pitched to a local business (not taken up): 3DAR studio site, auto-parts store, rental-fleet app, warehouse terminal. Demos use invented data.
 
 ## More engineering
 
