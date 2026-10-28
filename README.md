@@ -47,7 +47,12 @@ Software engineer, MSc Advanced Computer Science (Distinction), Queen Mary Unive
   </tr>
 </table>
 
-Sold to clients (code private, demo only public): ligarent.com and the settlements app. Pitched to a local business (not taken up): 3DAR studio site, auto-parts store, rental-fleet app, warehouse terminal. Demos use invented data.
+Sold to clients (code private, demo only public): ligarent.com, the settlements app and Zento. Pitched to a local business (not taken up): 3DAR studio site, auto-parts store, rental-fleet app, warehouse terminal. Demos use invented data.
+
+## Work
+
+- [Zento](https://dominicdamire.github.io/zento-demo/): multi-tenant salon and barber booking platform (Expo/React Native, Cloudflare Worker, Supabase/Postgres with RLS), built by Arman Fardin; I contribute from Oct 2026, remotely, with an AI-agent workflow: security hardening (cross-tenant isolation tests, Turnstile, sign-in code rate limits, load testing, OWASP ZAP, strict CSP, dependency audit) and loyalty, waitlist, messaging, campaigns and inventory features. Sold to clients; the code is private, so there is no public repository. The demo link runs on invented data.
+- 24FRAME (digital studio, Kazakhstan, [24frame.digital](https://www.24frame.digital)), 2026: worked on studio projects, Fibonacci ERP and Tapsyrys.
 
 ## More engineering
 
