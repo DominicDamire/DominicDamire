@@ -7,37 +7,37 @@ Software engineer, MSc Advanced Computer Science (Distinction), Queen Mary Unive
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://dominicdamire.github.io/privacred/"><img src="assets/cards/privacred.png" alt="PrivaCred" width="100%"></a><br>
+      <a href="https://dominicdamire.github.io/privacred-demo/"><img src="assets/cards/privacred.png" alt="PrivaCred" width="100%"></a><br>
       Live demo. Prove a predicate about a credential and verify it in the browser (Groth16 and PLONK).
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/DominicDamire/agent-injection-lab"><img src="assets/cards/agent-injection-lab.png" alt="Agent Injection Lab" width="100%"></a><br>
+      <a href="https://github.com/DominicDamire/agent-injection-lab-demo"><img src="assets/cards/agent-injection-lab.png" alt="Agent Injection Lab" width="100%"></a><br>
       Prompt-injection benchmark for document-reading LLM agents, with audited traces. Python.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/DominicDamire/taiga"><img src="assets/cards/taiga.png" alt="Taiga" width="100%"></a><br>
+      <a href="https://github.com/DominicDamire/taiga-demo"><img src="assets/cards/taiga.png" alt="Taiga" width="100%"></a><br>
       Private multi-model AI workspace: Next.js front end and a Python HTTP/SSE backend, one repository.
     </td>
     <td width="50%" valign="top">
-      <a href="https://dominicdamire.github.io/rps-hand/"><img src="assets/cards/rps-hand.png" alt="RPS Hand" width="100%"></a><br>
+      <a href="https://dominicdamire.github.io/rps-hand-demo/"><img src="assets/cards/rps-hand.png" alt="RPS Hand" width="100%"></a><br>
       Live demo. Rock-paper-scissors with MediaPipe hand tracking and a rigged 3D hand.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://dominicdamire.github.io/solutions101/"><img src="assets/cards/solutions101.png" alt="Solutions101" width="100%"></a><br>
+      <a href="https://dominicdamire.github.io/solutions101-demo/"><img src="assets/cards/solutions101.png" alt="Solutions101" width="100%"></a><br>
       Live demo. Four single-file business-automation prototypes (rental fleet, warehouse terminal, settlements, auto-parts store); Russian interface. The settlements app was sold to a client (code private, demo only here); the rental fleet, warehouse terminal and auto-parts store were pitched to a local business (not taken up).
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/DominicDamire/mostik-router-lab"><img src="assets/cards/mostik-router-lab.png" alt="Mostik router lab" width="100%"></a><br>
+      <a href="https://github.com/DominicDamire/mostik-router-lab-demo"><img src="assets/cards/mostik-router-lab.png" alt="Mostik router lab" width="100%"></a><br>
       Degraded-connection controller from a router-VPN product. POSIX shell, 13 tests.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://dominicdamire.github.io/3dar-studio-site/"><img src="assets/cards/3dar-studio-site.png" alt="3DAR studio site" width="100%"></a><br>
+      <a href="https://dominicdamire.github.io/3dar-studio-site-demo/"><img src="assets/cards/3dar-studio-site.png" alt="3DAR studio site" width="100%"></a><br>
       Live demo. Site for a 3D architecture-visualisation studio, pitched to a local business (not taken up).
     </td>
     <td width="50%" valign="top">
@@ -47,7 +47,7 @@ Software engineer, MSc Advanced Computer Science (Distinction), Queen Mary Unive
   </tr>
 </table>
 
-Sold to clients (code private, demo only public): ligarent.com, the settlements app and Zento. Pitched to a local business (not taken up): 3DAR studio site, auto-parts store, rental-fleet app, warehouse terminal. Demos use invented data.
+**Source code is private and available on request; the public repositories are demos (`*-demo`) with full READMEs.** The only other public code is the static LIGARENT site (it is the live site at ligarent.com) and a fork of a public university simulator (das-kademlia-simulator). Sold to clients (code private, demo only public): ligarent.com, the settlements app and Zento. Pitched to a local business (not taken up): 3DAR studio site, auto-parts store, rental-fleet app, warehouse terminal. Demos use invented data.
 
 ## Work
 
